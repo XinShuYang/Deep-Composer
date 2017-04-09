@@ -1,6 +1,6 @@
-## Welcome to Deep-Composer Pages
+# Welcome to Deep-Composer Pages
 
-Deep-Composer is an open source software for automated composition using machine learning.This software packs complex algorithms into simple functions.These functions let you combine the musical knowledge with machine learning methods easily.Deep-Composer also has a visual operation interface.
+[Deep-Composer]() is an open source software for automated composition using machine learning.This software packs complex algorithms into simple functions.These functions let you combine the musical knowledge with machine learning methods easily.Deep-Composer also has a visual operation interface.
 You can use the [editor on GitHub](https://github.com/XinShuYang/Deep-Composer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
